@@ -2,16 +2,16 @@
   "name": "nest-tomatok-work",
   "version": "0.0.1",
   "description": "tomato work",
-  "author": "xiejiahe",
+  "author": "liuzi6612",
   "private": true,
   "license": "MIT",
-  "homepage": "https://github.com/xjh22222228/tomato-work-server",
+  "homepage": "https://github.com/liuzi6612/tomato-work-server",
   "bugs": {
-    "url": "https://github.com/xjh22222228/tomato-work-server/issues"
+    "url": "https://github.com/liuzi6612/tomato-work-server/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/tomato-work-server.git"
+    "url": "git+https://github.com/liuzi6612/tomato-work-server.git"
   },
   "scripts": {
     "formatlint": "npm run format && npm run lint",
