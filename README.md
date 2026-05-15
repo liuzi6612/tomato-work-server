@@ -62,6 +62,6 @@ $ npm run migration:generate -- migrations/sql
 $ npm run migration:run
 ```
 
-## License
+## LICENSE
 
 [MIT](https://opensource.org/licenses/MIT)
